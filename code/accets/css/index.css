@@ -1,0 +1,12 @@
+.modal-display{
+  display: none;
+  padding: 15px
+}
+.add-footer{
+  text-align: right;
+}
+.text-center{
+  display: block;
+
+  text-align: center;
+}
